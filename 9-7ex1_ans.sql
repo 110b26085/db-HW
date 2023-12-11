@@ -1,0 +1,6 @@
+SELECT TOP (1000) [st_id]
+      ,[st_name]
+      ,[db]
+      ,[ds]
+      ,[prog]
+  FROM [MyDBMS].[dbo].[Stu_grade]
